@@ -22,7 +22,7 @@ class TicTacToe {
     bool place(int, int, int);
     bool testWinner();
     void playerTurn();
-    void cpuTurn();
+    void cpuTurnp();
     void setPlayerCoords();
     void setCpuCoords();
 };
